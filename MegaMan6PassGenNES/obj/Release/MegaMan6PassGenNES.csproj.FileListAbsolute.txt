@@ -1,0 +1,9 @@
+C:\workspace_sandbox\MegaMan6PassGenNES\MegaMan6PassGenNES\bin\Release\MegaMan6PassGenNES.exe.config
+C:\workspace_sandbox\MegaMan6PassGenNES\MegaMan6PassGenNES\bin\Release\MegaMan6PassGenNES.exe
+C:\workspace_sandbox\MegaMan6PassGenNES\MegaMan6PassGenNES\bin\Release\MegaMan6PassGenNES.pdb
+C:\workspace_sandbox\MegaMan6PassGenNES\MegaMan6PassGenNES\obj\Release\MegaMan6PassGenNES.FormMegaMan6PassGenNES.resources
+C:\workspace_sandbox\MegaMan6PassGenNES\MegaMan6PassGenNES\obj\Release\MegaMan6PassGenNES.Properties.Resources.resources
+C:\workspace_sandbox\MegaMan6PassGenNES\MegaMan6PassGenNES\obj\Release\MegaMan6PassGenNES.csproj.GenerateResource.cache
+C:\workspace_sandbox\MegaMan6PassGenNES\MegaMan6PassGenNES\obj\Release\MegaMan6PassGenNES.csproj.CoreCompileInputs.cache
+C:\workspace_sandbox\MegaMan6PassGenNES\MegaMan6PassGenNES\obj\Release\MegaMan6PassGenNES.exe
+C:\workspace_sandbox\MegaMan6PassGenNES\MegaMan6PassGenNES\obj\Release\MegaMan6PassGenNES.pdb
